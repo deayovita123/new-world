@@ -1,0 +1,10 @@
+.header {
+    width: auto;
+    height: 150px;
+    background-color: rgb(139, 45, 139);
+}
+.font {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
